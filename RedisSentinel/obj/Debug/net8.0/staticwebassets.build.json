@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KyEj2JEnh++ROppX10oaqwvrMfTpWEygp34NTyRpwpo=",
+  "Source": "RedisSentinel",
+  "BasePath": "_content/RedisSentinel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
